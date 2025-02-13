@@ -1,0 +1,39 @@
+h1 {
+ font-size: 70px; 
+ font-style: normal;
+ color:blueviolet;
+}
+h2 {
+    font-size: 50px;
+    font-style: normal;
+    color: bisque;
+} 
+ul {
+    text-decoration: underline;
+}
+
+ul {
+    color: red;
+    font-size: 40px; 
+} 
+
+input [type="text"] {
+    border: 2px solid red;
+}
+
+a{
+    color: black;
+    font-size: 30px;
+    font-style: unset;
+}   
+/*видит текст*/
+a:visited {
+    color: purple; 
+} 
+/* При наведении*/
+a:hover {
+    color: yellowgreen;
+    margin-left: 10px;
+}  
+
+

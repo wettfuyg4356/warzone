@@ -1,0 +1,22 @@
+/* Группировки стилей */
+h1,h2, p{
+    color: rgb(14, 247, 150);
+} 
+
+/* Наследование */
+
+.section {
+    text-align: center;
+}
+
+/*Свойства которые наследуются 
+color
+letter-spacing
+line-style
+text-align
+text-indent
+text-transform
+visibillity
+white-space
+word-spacing
+*/
